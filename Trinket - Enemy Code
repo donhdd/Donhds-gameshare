@@ -1,0 +1,27 @@
+PLEASE READ : The Following code says - Hello - I sang a dickriders song - im 92 - Your mom is gay.
+If you find these words Offensive I reccomend not sending or using in **[trinket.io]** 
+W   A   R   R   N   I   N   G - WARRNING - I Am not Responsible for any Trouble that you commit with this source code.
+SO I Reccomend You Think before you send. This can end you up in Juvy if used for bad - Thank you
+
+SOURCE CODE :
+
+import turtle
+tina = turtle.Turtle()
+tina.shape('turtle')
+
+tina.penup()
+tina.write("coded by donhdd")
+
+tina.goto(100,100)
+tina.write("Hello")
+
+tina.goto(-100,-100)
+tina.write("Im 92")
+
+tina.goto(100,-100)
+tina.write("Your mom is gay")
+
+tina.goto(-100,100)
+tina.write("I sang a dickriders song")
+
+tina.goto(-100, 0)
